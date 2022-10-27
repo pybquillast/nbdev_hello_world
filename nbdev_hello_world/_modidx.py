@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://pybquillast.github.io',
                 'git_url': 'https://github.com/pybquillast/nbdev_hello_world',
                 'lib_path': 'nbdev_hello_world'},
-  'syms': {'nbdev_hello_world.core': {'nbdev_hello_world.core.foo': ('core.html#foo', 'nbdev_hello_world/core.py')}}}
+  'syms': { 'nbdev_hello_world.mycore': { 'nbdev_hello_world.mycore.foo': ('core.html#foo', 'nbdev_hello_world/mycore.py'),
+                                          'nbdev_hello_world.mycore.say_hello': ('core.html#say_hello', 'nbdev_hello_world/mycore.py')}}}
