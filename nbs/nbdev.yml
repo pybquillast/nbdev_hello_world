@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hello_world"
+  site-url: "https://pybquillast.github.io/nbdev_hello_world"
+  description: "Hello World from nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/pybquillast/nbdev_hello_world"
